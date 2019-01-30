@@ -1,6 +1,6 @@
-Projet : Tennis de table avec apprentissage machine
+Projet : Tennis de table avec apprentissage machine sur Unity
 
-Ci-joint une archive contenant un dossier de projet unity, avec une archive zip du projet unity au cas où.
-Dans les deux cas, lancer le logiciel unity et choisir l'option ouvrir, sélectionner l'un des deux dossier "ProjetTennisTable".
+Ci-joint une archive contenant un dossier de projet unity, avec une archive zip du projet unity au cas oÃ¹.
+Dans les deux cas, lancer le logiciel unity et choisir l'option ouvrir, sÃ©lectionner l'un des deux dossier "ProjetTennisTable".
 
-Ci-joint également les diapositives de présentation, sous format PDF (ouvrable avec navigateur).
+Ci-joint Ã©galement les diapositives de prÃ©sentation, sous format PDF (ouvrable avec navigateur).
